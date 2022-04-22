@@ -146,7 +146,7 @@
               aria-label="Slide 20"></button>
           </div>
           <div class="carousel-inner relative w-full overflow-hidden rounded-xl">
-            <div class="carousel-item active float-left w-full">
+            <div class="slide1 carousel-item active float-left w-full">
               <img src="/images/Slide1.png" class="block h-[24rem] object-fill w-full" alt="Slide1" />
             </div>
             <div class="carousel-item float-left w-full">
