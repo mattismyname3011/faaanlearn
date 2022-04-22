@@ -147,67 +147,67 @@
           </div>
           <div class="carousel-inner relative w-full overflow-hidden rounded-xl">
             <div class="carousel-item active float-left w-full">
-              <img src="/images/ppt/Slide1.png" class="block h-[24rem] object-fill w-full" alt="Slide1" />
+              <img src="/images/Slide1.png" class="block h-[24rem] object-fill w-full" alt="Slide1" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide2.png" class="block h-[24rem] object-fill w-full" alt="Slide2" />
+              <img src="/images/Slide2.png" class="block h-[24rem] object-fill w-full" alt="Slide2" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide3.png" class="block h-[24rem] object-fill w-full" alt="Slide3" />
+              <img src="/images/Slide3.png" class="block h-[24rem] object-fill w-full" alt="Slide3" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide4.png" class="block h-[24rem] object-fill w-full" alt="Slide4" />
+              <img src="/images/Slide4.png" class="block h-[24rem] object-fill w-full" alt="Slide4" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide5.png" class="block h-[24rem] object-fill w-full" alt="Slide5" />
+              <img src="/images/Slide5.png" class="block h-[24rem] object-fill w-full" alt="Slide5" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide6.png" class="block h-[24rem] object-fill w-full" alt="Camera" />
+              <img src="/images/Slide6.png" class="block h-[24rem] object-fill w-full" alt="Camera" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide7.png" class="block h-[24rem] object-fill w-full" alt="Exotic Fruits" />
+              <img src="/images/Slide7.png" class="block h-[24rem] object-fill w-full" alt="Exotic Fruits" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide8.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide8.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide9.png" class="block h-[24rem] object-fill w-full" alt="Wild Landscape" />
+              <img src="/images/Slide9.png" class="block h-[24rem] object-fill w-full" alt="Wild Landscape" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide10.png" class="block h-[24rem] object-fill w-full" alt="Camera" />
+              <img src="/images/Slide10.png" class="block h-[24rem] object-fill w-full" alt="Camera" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide11.png" class="block h-[24rem] object-fill w-full" alt="Exotic Fruits" />
+              <img src="/images/Slide11.png" class="block h-[24rem] object-fill w-full" alt="Exotic Fruits" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide12.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide12.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide12.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide12.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide13.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide13.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>    
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide14.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide14.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide15.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide15.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide16.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide16.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide17.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide17.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide18.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide18.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide19.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide19.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
             <div class="carousel-item float-left w-full">
-              <img src="/images/ppt/Slide20.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
+              <img src="/images/Slide20.png" class="block h-[24rem] object-fill w-full" alt="U and Me" />
             </div>
           </div>
           <button
