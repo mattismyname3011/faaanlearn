@@ -101,7 +101,9 @@
 
 
   <!-- <section class="overflow-hidden text-gray-700 flex items-center"> -->
-    <div id="carouselExampleCaptions" class="carousel slide relative" data-bs-ride="carousel">
+  <!-- <div class="flex justify-center items-center"> -->
+    <center>
+    <div id="carouselExampleCaptions" class="carousel slide relative w-4/5 h-1/2 my-auto" data-bs-ride="carousel">
       <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
           aria-current="true" aria-label="Slide 1"></button>
@@ -109,30 +111,129 @@
           aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
           aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3"
+          aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4"
+          aria-label="Slide 5"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5"
+          aria-label="Slide 6"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6"
+          aria-label="Slide 7"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7"
+          aria-label="Slide 8"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8"
+          aria-label="Slide 9"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9"
+          aria-label="Slide 10"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10"
+          aria-label="Slide 11"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11"
+          aria-label="Slide 12"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12"
+          aria-label="Slide 13"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="13"
+          aria-label="Slide 14"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14"
+          aria-label="Slide 15"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15"
+          aria-label="Slide 16"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16"
+          aria-label="Slide 17"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17"
+          aria-label="Slide 18"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="18"
+          aria-label="Slide 19"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="19"
+          aria-label="Slide 20"></button>
       </div>
-      <div class="carousel-inner relative w-full overflow-hidden">
-        <div class="carousel-item active relative float-left w-full">
-          <img src="/images/Slide1.PNG" class="block w-full" alt="..." />
-          <div class="carousel-caption hidden md:block absolute text-center">
-            <h5 class="text-xl">First slide label</h5>
-            <p>Some representative placeholder content for the first slide.</p>
+      <center>
+        <div class="carousel-inner relative w-full h-4/5 overflow-hidden bg-slate-100">
+          <div class="carousel-item active relative float-left w-full">
+            <img src="/images/Slide1.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <h5 class="text-xl">First slide label</h5>
+              <!-- <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
           </div>
-        </div>
-        <div class="carousel-item relative float-left w-full">
-          <img src="https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg" class="block w-full" alt="..." />
-          <div class="carousel-caption hidden md:block absolute text-center">
-            <h5 class="text-xl">Second slide label</h5>
-            <p>Some representative placeholder content for the second slide.</p>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide2.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
           </div>
-        </div>
-        <div class="carousel-item relative float-left w-full">
-          <img src="https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg" class="block w-full" alt="..." />
-          <div class="carousel-caption hidden md:block absolute text-center">
-            <h5 class="text-xl">Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide3.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
           </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide4.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide5.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide6.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide7.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide8.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide9.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide10.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <!-- <div class="carousel-item relative float-left w-full">
+            <img src="https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <h5 class="text-xl">Second slide label</h5>
+              <p>Some representative placeholder content for the second slide.</p>
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <h5 class="text-xl">Third slide label</h5>
+              <p>Some representative placeholder content for the third slide.</p>
+            </div>
+          </div> -->
         </div>
-      </div>
+      </center>
       <button
         class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
         type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -146,6 +247,8 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
+    </center>
+  <!-- </div> -->
   <!-- </section> -->
   <!-- <audio src="/music/VanillaTwilight.mp3" autoplay ></audio> -->
   <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
