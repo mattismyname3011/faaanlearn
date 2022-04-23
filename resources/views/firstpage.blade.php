@@ -112,7 +112,7 @@
       </div>
       <div class="carousel-inner relative w-full overflow-hidden">
         <div class="carousel-item active relative float-left w-full">
-          <img src="https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg" class="block w-full" alt="..." />
+          <img src="/images/Slide1.PNG" class="block w-full" alt="..." />
           <div class="carousel-caption hidden md:block absolute text-center">
             <h5 class="text-xl">First slide label</h5>
             <p>Some representative placeholder content for the first slide.</p>
