@@ -218,6 +218,76 @@
               <p>Some representative placeholder content for the first slide.</p> -->
             </div>
           </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide11.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide12.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide13.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide14.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide15.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide16.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide17.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide18.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide19.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
+          <div class="carousel-item relative float-left w-full">
+            <img src="/images/Slide20.PNG" class="block w-full" alt="..." />
+            <div class="carousel-caption hidden md:block absolute text-center">
+              <!-- <h5 class="text-xl">First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p> -->
+            </div>
+          </div>
           <!-- <div class="carousel-item relative float-left w-full">
             <img src="https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg" class="block w-full" alt="..." />
             <div class="carousel-caption hidden md:block absolute text-center">
