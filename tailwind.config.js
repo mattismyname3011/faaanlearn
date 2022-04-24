@@ -6,6 +6,10 @@ module.exports = {
         './storage/framework/views/*.php',
         './resources/views/**/*.blade.php',
         './resources/js/**/*.vue',
+        "./node_modules/flowbite/**/*.js",
+    ],
+    plugins: [
+        require('flowbite/plugin')
     ],
 
     theme: {

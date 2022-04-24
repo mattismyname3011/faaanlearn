@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" />
   <link rel="stylesheet" href="/css/tailwind.min.css">
   <link rel="stylesheet" href="/css/animate.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/flowbite@1.4.2/dist/flowbite.min.css" />
   <!--Replace with your tailwind.css once created-->
   <!-- <iframe src="https://www.youtuberepeater.com/watch?v=2BXRpq3MEGY#gsc.tab=0" frameborder="0" allowfullscreen height="0" width="0"></iframe> -->
 </head>
@@ -77,6 +78,9 @@
             <a href="/" class="{{($title === 'Home') ? $active : $nonactive }}" aria-current>Home</a>
           </li>
           <li>
+            <a href="/slides" class="{{($title === 'Slides') ? $active : $nonactive }}">Slides</a>
+          </li>
+          <li>
             <a href="/add" class="{{($title === 'About') ? $active : $nonactive }}">Cahyaning's Game</a>
           </li>
           <li>
@@ -89,6 +93,7 @@
             <a href="#"
               class="block py-2 pr-4 pl-3 text-gray-700 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
           </li> -->
+
         </ul>
       </div>
     </div>
@@ -102,7 +107,7 @@
 
   <!-- <section class="overflow-hidden text-gray-700 flex items-center"> -->
   <!-- <div class="flex justify-center items-center"> -->
-    <center>
+  <center>
     <div id="carouselExampleCaptions" class="carousel slide relative w-4/5 h-1/2 my-auto" data-bs-ride="carousel">
       <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
@@ -317,11 +322,16 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-    </center>
+  </center>
+
+
+  
+
   <!-- </div> -->
   <!-- </section> -->
   <!-- <audio src="/music/VanillaTwilight.mp3" autoplay ></audio> -->
   <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+  <script src="https://unpkg.com/flowbite@1.4.2/dist/flowbite.js"></script>
 </body>
 
 </html>

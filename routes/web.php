@@ -38,12 +38,16 @@ Route::get('/', function(){
         "title" => "Home",
     ]);  
 });
-Route::get('/firstpage', function () {
-    return view('firstpage', [
-        "title" => "firstpage",
+Route::get('/slides', function () {
+    return view('slides', [
+        "title" => "Slides",
     ]);
 });
-
+Route::get('/addslide', function () {
+    return view('addslide', [
+        "title" => "addslide",
+    ]);
+});
 Route::get('/add', function () {
     return view('add', [
         "title" => "add",
